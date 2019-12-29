@@ -29,3 +29,6 @@ We want to answer following four questions:
 The data about Airbnb in Seattle can be downloaded from Kaggle:
 
 https://www.kaggle.com/airbnb/seattle/data
+
+# Blog
+https://medium.com/@asif.mahfuz001/exploring-airbnb-prices-in-seattle-7717d44ecce
